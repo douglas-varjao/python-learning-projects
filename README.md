@@ -13,4 +13,4 @@ Repositório com projetos simples em Python para fins educativos e de automaçã
 ## 🚀 Como Usar  
 - Clone o repositório:  
   ```bash
-  git clone https://github.com/douglas-varjao/python-mini-projects.git
+  git clone https://github.com/douglas-varjao/python-learning-projects.git
