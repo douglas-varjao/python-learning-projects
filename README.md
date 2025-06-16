@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects  
+# 🐍 python-learning-projects
 
 Repositório com projetos simples em Python para fins educativos e de automação.  
 
